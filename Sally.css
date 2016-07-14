@@ -1,0 +1,24 @@
+body{
+	background-image: url("http://static.vecteezy.com/system/resources/previews/000/094/491/original/polygonal-texture-background-vector.jpg");
+}
+
+#body{
+	background-color:#E6E6DC;
+	margin:20px;
+	padding: 20px;
+}
+
+#photo{
+	padding:0px,0px,20px,20px;
+	float: right;
+	clear:auto;
+}
+#about{
+	padding:20px;
+	margin: 20px;
+}
+
+ul{
+	display: inline-block;
+	list-style-position: inside;
+}
